@@ -1,4 +1,6 @@
-MÁTERIA: ADVANCED BUSINESS DEVELOPMENT WITH .NET 💻
+# MÁTERIA: ADVANCED BUSINESS DEVELOPMENT WITH .NET 💻
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
 
 INTEGRANTES:
 
@@ -8,20 +10,20 @@ Jennifer Eduarda Vieira Daleffi - RM557137
 
 Leonardo Cadena de Souza - RM557528 
 
-Exercício 01
+## Exercício 01
 
 Considere uma empresa que possui diferentes tipos de funcionários, sendo
 eles contratados sob o regime CLT (Consolidação das Leis do Trabalho) e como
 Pessoa Jurídica (PJ). Cada tipo de funcionário possui regras específicas para o
 cálculo de salários e impostos.
 
-Crie uma classe base chamada Funcionario com as seguintes propriedades:
+# Crie uma classe base chamada Funcionario com as seguintes propriedades:
 
 ● Nome (string): o nome do funcionário.
 
 ● SalarioBase (double): o salário base do funcionário.
 
-Implemente um método virtual na classe Funcionario chamado
+## Implemente um método virtual na classe Funcionario chamado
 CalcularSalario que retorna o salário base do funcionário.
 Crie uma classe derivada chamada FuncionarioCLT, que herda da
 classe Funcionario. Esta classe deve ter uma propriedade adicional:
