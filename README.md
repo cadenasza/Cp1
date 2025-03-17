@@ -68,8 +68,7 @@ perímetro da forma geométrica.
 ● Retangulo deve ter duas propriedades adicionais Largura e
 Altura, ambas do tipo double.
 
-## Sobrescreva os métodos CalcularArea e CalcularPerimetro nas
-classes derivadas.
+## Sobrescreva os métodos CalcularArea e CalcularPerimetro nas classes derivadas.
 
 ● Para o Circulo, a área deve ser calculada como π * raio^2 e o
 perímetro como 2 * π * raio.
