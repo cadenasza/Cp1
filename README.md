@@ -2,7 +2,7 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
 
-INTEGRANTES:
+# INTEGRANTES:
 
 Davi Gonzaga Ferreira - RM554890
 
@@ -17,7 +17,7 @@ eles contratados sob o regime CLT (Consolidação das Leis do Trabalho) e como
 Pessoa Jurídica (PJ). Cada tipo de funcionário possui regras específicas para o
 cálculo de salários e impostos.
 
-# Crie uma classe base chamada Funcionario com as seguintes propriedades:
+## Crie uma classe base chamada Funcionario com as seguintes propriedades:
 
 ● Nome (string): o nome do funcionário.
 
